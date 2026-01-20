@@ -52,7 +52,14 @@ A **Flutter mobile application** featuring multiple screens including Home, Offe
 ---
 
 ## 🚀 Getting Started
+📂 Project Type
+Academic Game Project
+
+👩‍💻 Developed By
+Warda Yousaf
+
 
 1. **Clone the repository**  
 ```bash
-git clone https://github.com/YourUsername/flutter-home-cards-app.git
+https://github.com/wardaTech34/flutter-home-cards-app.git
+
