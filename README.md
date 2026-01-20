@@ -53,7 +53,7 @@ A **Flutter mobile application** featuring multiple screens including Home, Offe
 
 ## 🚀 Getting Started
 📂 Project Type
-Academic Game Project
+Internship Project (Flutter Mobile App)
 
 👩‍💻 Developed By
 Warda Yousaf
