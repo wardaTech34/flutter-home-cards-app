@@ -1,16 +1,55 @@
-# first_screen
+# Flutter Home & Cards App
 
-A new Flutter project.
+A **Flutter mobile application** featuring multiple screens including Home, Offers, and Cards screens. This app demonstrates modern UI layouts, interactive buttons, grid cards, and navigation between screens.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 Features
 
-A few resources to get you started if this is your first Flutter project:
+- **HomeScreen**  
+  - User profile header with avatar and notifications  
+  - Search bar for quick filtering  
+  - Top icon menu for shortcuts  
+  - Gradient banner with CTA button  
+  - Grid of most popular items with images and cashback offers  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **OffersScreen**  
+  - Display special offers with brand logos  
+  - Search bar to find deals quickly  
+  - Grid layout for multi-offer display  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **CardsScreen**  
+  - Shows credit card info with gradient design  
+  - Last activities section (Netflix, Spotify, etc.)  
+  - Styled activity cards with icons and amounts  
+
+---
+
+## 📸 Screenshots
+
+### Home Screen
+![Home Screen](path_to_your_image/home_screen.png)
+
+### Offers Screen
+![Offers Screen](path_to_your_image/offers_screen.png)
+
+### Cards Screen
+![Cards Screen](path_to_your_image/cards_screen.png)
+
+> Replace `path_to_your_image/...` with the actual screenshot path in your project.
+
+---
+
+## 💻 Tech Stack
+
+- Flutter  
+- Dart  
+- Material Design Widgets  
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**  
+```bash
+git clone https://github.com/YourUsername/flutter-home-cards-app.git
