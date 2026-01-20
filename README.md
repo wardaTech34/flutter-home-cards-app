@@ -28,13 +28,16 @@ A **Flutter mobile application** featuring multiple screens including Home, Offe
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](path_to_your_image/home_screen.png)
+![Home Screen]<img width="959" height="452" alt="image" src="https://github.com/user-attachments/assets/256ea2dc-6de6-40c3-88b5-bc5a8c3c32f8" />
+)
 
 ### Offers Screen
-![Offers Screen](path_to_your_image/offers_screen.png)
+![Offers Screen]<img width="959" height="438" alt="image" src="https://github.com/user-attachments/assets/3d7653dd-ebe0-4dca-8f3b-5ae6178db2f3" />
+
 
 ### Cards Screen
-![Cards Screen](path_to_your_image/cards_screen.png)
+![Cards Screen]<img width="958" height="443" alt="image" src="https://github.com/user-attachments/assets/27b1373c-c382-454f-8379-d2c788fec3e1" />
+
 
 > Replace `path_to_your_image/...` with the actual screenshot path in your project.
 
